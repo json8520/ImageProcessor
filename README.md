@@ -1,3 +1,3 @@
 # ImageProcessor
-1. Feature Print (envi format)
-2. Tiepoint Print (envi format)
+1. Print feature points (envi format)
+2. Print tiepoints (envi format)
